@@ -90,15 +90,15 @@ git config --global core.editor "vim"
 ### **📋 Задачи:**
 
 #### **1. FORK репозитория 🔗 [Mathematics Repository](https://github.com/AlexeyTri/Mathematics)**
-#### **2. в ветку new_feature добавить файл file_your_family, файл может содержать любую полезную информацию **
-#### **3. выполнить pull_request данного репозитория **
-#### **4.https://docs.github.com/ru/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo**
+#### **2. в ветку new_feature добавить файл file_your_family, файл может содержать любую полезную информацию**
+#### **3. выполнить pull_request данного репозитория**
+#### **4. 🔗 [Документация](https://docs.github.com/ru/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)**
 
 ## **🎮 Тренажер для Git**
 
 <div align="center">
 💪 Практикуйте свои навыки работы с Git!
-https://img.shields.io/badge/Play-Git_Mastery-blue?style=for-the-badge&logo=git
+
 
 🔗 Ссылка: https://www.gitmastery.me/playground
 
